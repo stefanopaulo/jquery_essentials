@@ -30,6 +30,7 @@ Para iniciar, são necessários dois arquivos, o arquivo de download do jQuery, 
 ```
 
 O **ready** carrega todo o JavaScript necessário para a página na hora que está carregando a página
+# 
 Podemos usar o **load**, que espera os arquivos .html e .css serem carregados para depois carregar o JavaScript
 
 ### Forma padrão de iniciar o jQuery simplificado
