@@ -4,7 +4,7 @@
 jQuery é uma biblioteca de funções JavaScript que interage com o HTML.
 
 ## A documentação
-api.jquery.com
+[api.jquery.com][https://api.jquery.com/]
 
 # Iniciando o jQuery
 
