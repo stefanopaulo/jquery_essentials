@@ -60,7 +60,7 @@ Podemos usar o **load**, que espera os arquivos .html e .css serem carregados pa
 
 ```
 
-# Algumas funções do console(referente a função console do JavaScript) que ajudam no debug do jQuery no console do browser
+# Algumas funções do console que ajudam no debug do jQuery no console do browser
 
 ```
     $(function() {
